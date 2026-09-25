@@ -1,0 +1,6 @@
+{
+  "name": "TikTokPulse SMM - TikTok Growth Panel",
+  "description": "High-performance SMM panel for TikTok likes, views, and followers with automated order processing, live campaign analytics, and secure Easypaisa payment integration (03364180438).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
